@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new_ord",
+				"new_order_id"
+			],
+			[
+				"shi",
+				"shipping_address_id"
+			],
+			[
+				"billing",
+				"billing_address_id"
+			],
+			[
+				"Us",
+				"UserAddress"
+			],
+			[
+				"sh",
+				"shipping_address_id"
+			],
+			[
+				"billing_addre",
+				"billing_address_id"
+			],
+			[
+				"shipping",
+				"shipping_address"
+			],
+			[
+				"user",
+				"user_checkout_id"
+			],
+			[
+				"user_ch",
+				"user_checkout_id"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"User",
+				"UserAddress"
+			],
+			[
+				"Oder",
+				"Order"
+			],
+			[
+				"cart",
+				"cart_total"
+			],
+			[
+				"f",
+				"ForeignKey"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"delete",
+				"delete_item"
+			],
+			[
+				"Ca",
+				"CartAdmin"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"ProductIm",
+				"ProductImageInline"
+			],
+			[
+				"Prod",
+				"ProductImage"
+			],
+			[
+				"v",
+				"VariationInline"
+			],
+			[
+				"ProductA",
+				"ProductAdmin"
+			],
+			[
+				"Pro",
+				"ProductFeatured"
+			],
+			[
+				"Image",
+				"ImageField"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"Cate",
+				"CategoryDetailView"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"L",
+				"ListView"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"S",
+				"StaffRequiredMixin"
+			],
+			[
+				"pr",
+				"product_pk"
+			],
+			[
+				"Var",
+				"VariationInventoryFormSet"
+			],
+			[
+				"Va",
+				"VariationInventoryForm"
+			],
+			[
+				"modelform",
+				"modelformset_factory"
+			],
+			[
+				"Varia",
+				"VariationInventoryForm"
+			],
+			[
+				"product",
+				"product_pk"
+			],
+			[
+				"Product",
+				"ProductListView"
+			],
+			[
+				"iam",
+				"image_upload_to"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"produc",
+				"product_detail_view_func"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"fie",
+				"friend"
+			],
+			[
+				"Joi",
+				"JoinFriends"
+			],
+			[
+				"frind",
+				"friends_set"
+			],
+			[
+				"new_",
+				"new_join_old"
+			],
+			[
+				"new",
+				"new_join_old"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"Join",
+				"JoinForm"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"auo",
+				"auto_now_add"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"HttpRespo",
+				"HttpResponseRedirect"
+			],
+			[
+				"post_",
+				"post_delete"
+			],
+			[
+				"post",
+				"post_update"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"H",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bharu_sathya/Desktop/teste/src/Procfile",
+		"/Users/bharu_sathya/Desktop/teste/src/manage.py",
+		"/Users/bharu_sathya/Desktop/teste/src/db.sqlite3",
+		"/Users/bharu_sathya/Desktop/teste/src/requirements.txt",
+		"/Users/bharu_sathya/Desktop/teste/src/todo.txt",
+		"/Users/bharu_sathya/Desktop/teste/src/Profile",
+		"/Users/bharu_sathya/Desktop/Gorgeous-shoppe/README.md",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/product_detail.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/templates/carts/view.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/templates/navbar.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/static_in_env/static_root/css/custom.css",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/onlineshop/settings/local.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/models.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/templates/carts/empty_cart.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/templates/home.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/models.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/views.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/orders/forms.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/orders/models.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/onlineshop/urls.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/templates/javascript.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/admin.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/templates/carts/checkout_view.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/orders/views.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/orders/templates/orders/address_select.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/orders/admin.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/static_in_env/static_root/js/custom.js",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/static_in_pro/our_static/css/custom.css",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/static_in_pro/our_static/js/custom.js",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/templates/alert.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/templates/carts/viewbck.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/detailbck.html",
+		"/Users/bharu_sathya/Desktop/viewscartbck.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/carts/templates/view.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/views.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/newsletter/views.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/product_list.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/products.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/admin.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/templates/base.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/product_thumbnail.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/category_detail.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/urls_categories.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/variation_list.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/urls.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/templates/products/backup.html",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/forms.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/mixins.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/products/Find Results",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/todo.txt",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/wsgi.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/urls.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/settings/production.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/settings/local.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/settings/base.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/trydjango18/old_settings.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/manage.py",
+		"/Users/bharu_sathya/Desktop/onlineshop/src/.gitignore",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/settings/local.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/settings/base.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/wsgi.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/Procfile",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/settings/production.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/settings/__init__.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/templates/navbar.html",
+		"/Users/bharu_sathya/Desktop/Dep/src/requirements.txt",
+		"/Users/bharu_sathya/Desktop/Dep/src/.gitignore",
+		"/Users/bharu_sathya/Desktop/Dep/src/templates/share.html",
+		"/Users/bharu_sathya/Desktop/Dep/src/templates/base.html",
+		"/Users/bharu_sathya/Desktop/Dep/src/dyp/settings_old.py",
+		"/Users/bharu_sathya/Desktop/Dep/src/templates/home.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/joins/admin.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/joins/models.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/dyp/urls.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/base.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/404.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/400.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/500.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/navbar.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/share.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/home.html",
+		"/Users/bharu_sathya/Desktop/lwc/src/joins/views.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/dyp/views.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/dyp/middleware.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/dyp/settings.py",
+		"/Users/bharu_sathya/Desktop/lwc/src/templates/donotuse.html",
+		"/Users/bharu_sathya/Desktop/share.html",
+		"/Users/bharu_sathya/Desktop/lwc/.gitignore",
+		"/Users/bharu_sathya/Desktop/trydjango19/untitled.txt",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/templatetags/__init__.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/templates/post_form.html",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/migrations/0001_initial.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/urls.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/views.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/trydjango19/urls.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/trydjango19/settings.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/forms.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/static_cdn/css/base.css",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/templates/messages_display.html",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/models.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/templates/index.html",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/crud.md",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/posts/admin.py",
+		"/Users/bharu_sathya/Desktop/trydjango19/src/db.sqlite3",
+		"/Users/bharu_sathya/Desktop/testproject/hello world!!!",
+		"/Users/bharu_sathya/Desktop/testproject/polls/templates/polls/index.html",
+		"/Users/bharu_sathya/Desktop/testproject/polls/url.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/bharu_sathya/Desktop/onlineshop/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eCommerce 2",
+			"ecommerce2",
+			"django_filters",
+			"Welcome",
+			"ecomm",
+			"added",
+			"flash",
+			"jquery",
+			"ajax",
+			"related",
+			"slef",
+			"mvp",
+			"MVP Landing",
+			"trydjango18",
+			"fav",
+			"font",
+			"max",
+			"cover",
+			"2015",
+			"beach",
+			"obs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"onlineshop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "api.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
