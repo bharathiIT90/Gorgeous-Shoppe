@@ -5,7 +5,7 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [API Test Function](#apiTestFunction)
+- [API Test Function](#API-Test-Function)
 - [Exploration through GorgeousShoppe](#Exploration through GorgeousShoppe)
 
 
