@@ -6,7 +6,7 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 - [Features](#features)
 - [Technologies](#technologies)
 - [Testing](#testing)
-- [Exploration through GorgeousShoppe](#exploration-through-GorgeousShoppe)
+- [Exploration](#exploration)
 
 
 ## Introduction
@@ -39,7 +39,7 @@ Python runs the back end of GorgeousShoppe. Django web framework is used to crea
 ## Testing
 Created a cart.Created a Json cart token.Generated new url and checkout url using Json token.An arbitary email is passed as argument in the test case function.Requested address from the user.Returned the addresses related to user checkout if addresses already available.Created an arbitrary user_id.Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
 
-## Exploration through GorgeousShoppe
+## Exploration
 
 Homepage:
 
