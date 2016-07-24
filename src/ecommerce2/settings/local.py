@@ -11,7 +11,9 @@ https://docs.djangoproject.com/en/1.8/ref/settings/
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
+import datetime
 import os
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 #root of project
@@ -54,6 +56,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #third party apps
+    'corsheaders',
     'crispy_forms',
     'django_filters',
     'registration',
@@ -67,6 +70,7 @@ INSTALLED_APPS = (
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -75,6 +79,15 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.security.SecurityMiddleware',
 )
+
+# CORS_ORIGIN_WHITELIST = (
+#     'ang.heroku.com'
+# )
+
+# CORS_ORIGIN_REGEX_WHITELIST = ('^(https?://)?(\w+\.)?teamcfe\.com$', )
+CORS_URLS_REGEX = r'^/api/.*$'
+
+
 
 ROOT_URLCONF = 'ecommerce2.urls'
 
@@ -157,22 +170,27 @@ BRAINTREE_PRIVATE = "d14ac944794c0df1c81991ecf49221ff"
 BRAINTREE_MERCHANT_ID = "n84nynknvzz3j3sz"
 BRAINTREE_ENVIRONEMNT = "Sandbox"
 
+
+
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': (
         'rest_framework.permissions.AllowAny',
     ),
-     'DEFAULT_AUTHENTICATION_CLASSES': (
+      'DEFAULT_AUTHENTICATION_CLASSES': (
         #'rest_framework.authentication.BasicAuthentication',
-        'rest_framework.authentication.SessionAuthentication',
-
+        #'rest_framework.authentication.SessionAuthentication',
+        "rest_framework_jwt.authentication.JSONWebTokenAuthentication",
     ),
       'DEFAULT_PAGINATION_CLASS': 'products.pagination.ProductPagination',
       "SEARCH_PARAM" : "q"
 }
 
-
-
-
+JWT_AUTH = {
+    "JWT_RESPONSE_PAYLOAD_HANDLER": 
+            "ecommerce2.utils.jwt_response_payload_handler",
+    "JWT_EXPIRATION_DELTA": datetime.timedelta(seconds=30000),
+    "JWT_ALLOW_REFRESH": True, #False
+}
 
 
 

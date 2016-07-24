@@ -96,7 +96,7 @@ class Order(models.Model):
 	order_id = models.CharField(max_length=20, null=True, blank=True)
 
 	def __unicode__(self):
-		return str(self.cart.id)
+		return "Order_id: %s, Cart_id: %s"%(self.id, self.cart.id)
 
 	class Meta:
 		ordering = ['-id']
@@ -109,6 +109,12 @@ class Order(models.Model):
 		if order_id and not self.order_id:
 			self.order_id = order_id
 		self.save()
+
+	@property
+	def is_complete(self):
+		if self.status == "paid":
+			return True
+		return False
 
 
 def order_pre_save(sender, instance, *args, **kwargs):
