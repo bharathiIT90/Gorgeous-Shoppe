@@ -2,9 +2,9 @@
 Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-ranganathan">Linkedin</a>
 
 ## Table of Contents
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 - [Features](#Features)
-- [Technologies](#Technologies)
+- [Technologies](#technologies)
 - [API Test Function](#API Test Function)
 - [Exploration through GorgeousShoppe:](#Exploration through GorgeousShoppe)
 
