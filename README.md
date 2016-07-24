@@ -16,7 +16,7 @@ A full stack online shopping web application which allows user to select their d
 2. Updating the product view to display different images for every product variations provided. <br/>
 
 <b>Technologies Used:</b><br/>
-Python, Django framework, sqlite3, AJAX, Jquery, HTML, CSS, Bootstrap, Braintree for payment, Jquery flash messages.
+Python, Django framework, sqlite3, AJAX, Jquery, HTML, CSS, Bootstrap, Braintree for payment, Jquery flash messages, Django REST framework.
 
 <b>Front-end:</b><br/>
 HTML, custom CSS paired with bootstrap is the main part of the Front end. Flash messages for the cart update is run through Jquery. 
@@ -24,23 +24,16 @@ HTML, custom CSS paired with bootstrap is the main part of the Front end. Flash 
 <b>Back-end:</b><br/>
 Python runs the back end of GorgeousShoppe. Django web framework is used to create relations between different applications and databases. AJAX is used for querying the database to update the cart quickly once the quantity and product is updated. Braintree is used for providing payments options using paypal and credit card. 
 
-<b>Road Map:</b>
-1. Products (physical)
-	--> Single Product (detail view)
-		--> Social Sharing Buttons
-	--> List Product (list view)
-	--> Inventory Control + Viewable
-	--> Search Products
 
-2. Checkout
-	--> Cart (shopping cart)
-	--> Auth Users & Guest User (non-auth)
-	--> Shipping & Billing Address
-
-3. Payment
-	--> Integration with Braintree (steps on other integrations)
-Contact GitHub API Training Shop Blog About
-
+API test function:<br/>
+1. Created a cart
+2. Created a Json cart token
+3. Generated new url and checkout url using Json token 
+4. An arbitary email is passed as argument in the test case function.
+5. Requested address from the user.
+6. Returned the addresses related to user checkout if addresses already available.
+7. Created an arbitrary user_id.
+8. Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
 
 <h2>Exploration through GorgeousShoppe:</h2>
 
