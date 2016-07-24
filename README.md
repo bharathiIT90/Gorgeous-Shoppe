@@ -4,8 +4,9 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+  - [Current Features](#current features)
 - [Technologies](#technologies)
-- [API Test Function](#API Test Function)
+- [API Test Function](#aPI Test Function)
 - [Exploration through GorgeousShoppe](#exploration through GorgeousShoppe)
 
 
@@ -46,7 +47,7 @@ Python runs the back end of GorgeousShoppe. Django web framework is used to crea
 7. Created an arbitrary user_id.<br/>
 8. Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.<br/>
 
-## <h2>Exploration through GorgeousShoppe</h2>
+## Exploration through GorgeousShoppe
 
 <b>Homepage:</b><br/>
 
