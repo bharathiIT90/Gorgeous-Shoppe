@@ -1,5 +1,12 @@
 bin/*
-
+images/*
+webfaction/*
+include/*
+lib/python2.7
+api.sublime.project
+api.sublime.workspace
+deals.txt
+pip-selfcheck.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
