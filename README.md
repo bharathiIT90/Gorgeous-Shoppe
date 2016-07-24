@@ -6,7 +6,7 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 - [Features](#features)
 - [Technologies](#technologies)
 - [API Test Function](#API Test Function)
-- [Exploration through GorgeousShoppe](#exploration through GorgeousShoppe)
+- [Exploration through GorgeousShoppe](#Exploration through GorgeousShoppe)
 
 
 ## Introduction
@@ -37,14 +37,14 @@ Python runs the back end of GorgeousShoppe. Django web framework is used to crea
 
 
 ## API Test Function
-1. Created a cart.<br/>
-2. Created a Json cart token.<br/>
-3. Generated new url and checkout url using Json token.<br/>
-4. An arbitary email is passed as argument in the test case function.<br/>
-5. Requested address from the user.<br/>
-6. Returned the addresses related to user checkout if addresses already available.<br/>
-7. Created an arbitrary user_id.<br/>
-8. Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.<br/>
+ Created a cart.
+ Created a Json cart token.
+ Generated new url and checkout url using Json token.
+ An arbitary email is passed as argument in the test case function.
+ Requested address from the user.
+ Returned the addresses related to user checkout if addresses already available.
+ Created an arbitrary user_id.
+ Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
 
 ## Exploration through GorgeousShoppe
 
