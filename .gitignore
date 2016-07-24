@@ -3,8 +3,8 @@ images/*
 webfaction/* 
 include/* 
 lib/python2.7 
-api.sublime.project
-api.sublime.workspace
+api.sublime-project
+api.sublime-workspace
 deals.txt
 pip-selfcheck.json
 
