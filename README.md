@@ -4,9 +4,8 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-  - [Current Features](#current features)
 - [Technologies](#technologies)
-- [API Test Function](#aPI Test Function)
+- [API Test Function](#API Test Function)
 - [Exploration through GorgeousShoppe](#exploration through GorgeousShoppe)
 
 
@@ -37,7 +36,7 @@ HTML, custom CSS paired with bootstrap is the main part of the Front end. Flash 
 Python runs the back end of GorgeousShoppe. Django web framework is used to create relations between different applications and databases. AJAX is used for querying the database to update the cart quickly once the quantity and product is updated. Braintree is used for providing payments options using paypal and credit card. 
 
 
-## API test function
+## API Test Function
 1. Created a cart.<br/>
 2. Created a Json cart token.<br/>
 3. Generated new url and checkout url using Json token.<br/>
