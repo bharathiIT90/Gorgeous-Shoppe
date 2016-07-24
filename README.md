@@ -4,13 +4,9 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#Features)
-  - [Front-end](#Front-end)
-  - [Back-end](#Back-end)
 - [Technologies](#technologies)
-  - [Current Features](#Current Features)
-  - [Future Enhancements](#Future Enhancements)
 - [API Test Function](#API Test Function)
-- [Exploration through GorgeousShoppe:](#Exploration through GorgeousShoppe:)
+- [Exploration through GorgeousShoppe:](#Exploration through GorgeousShoppe)
 
 
 ## Inroduction
