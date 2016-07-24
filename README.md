@@ -3,10 +3,10 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#Features)
+- [Features](#features)
 - [Technologies](#technologies)
 - [API Test Function](#API Test Function)
-- [Exploration through GorgeousShoppe:](#Exploration through GorgeousShoppe)
+- [Exploration through GorgeousShoppe](#exploration through GorgeousShoppe)
 
 
 ## Introduction
