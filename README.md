@@ -64,7 +64,7 @@ Dependencies are given in Gorgeous-Shoppe/src/requirements.txt.
 ![cart](https://cloud.githubusercontent.com/assets/16948906/17109640/ac3ab50e-524d-11e6-8b8d-6d0d2dbcc2f0.gif)
 
 
-<h3>Order Summary and Payment Options</h3></br>
+<h3>Order Summary and Payment Options</h3>
 ![ordersummary](https://cloud.githubusercontent.com/assets/16948906/17109643/ada6a02e-524d-11e6-8886-87a62958b303.gif)
 
 
