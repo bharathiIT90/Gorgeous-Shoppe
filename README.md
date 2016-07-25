@@ -52,7 +52,7 @@ Dependencies are given in Gorgeous-Shoppe/src/requirements.txt.
 
 ## Technical Run:
 
-<h3>Home Page</h3></br>
+### Home Page
 ![homepage](https://cloud.githubusercontent.com/assets/16948906/17109637/a94434f6-524d-11e6-9fb1-722dc9772e33.gif)
 
 <h3>Product and Product Variation</h3></br>
