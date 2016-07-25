@@ -53,16 +53,15 @@ Dependencies are given in Gorgeous-Shoppe/src/requirements.txt.
 ## Technical Run:
 
 <h3>Home Page</h3></br>
-
 ![homepage](https://cloud.githubusercontent.com/assets/16948906/17109637/a94434f6-524d-11e6-9fb1-722dc9772e33.gif)
 
-**Product and Product Variation **
+<h3>Product and Product Variation</h3></br>
 ![productview](https://cloud.githubusercontent.com/assets/16948906/17109639/aa621a10-524d-11e6-8164-be2668b70ad8.gif)
 
-**Cart and Cart Updation**
+<h3>Cart and Cart Updation</h3></br>
 ![cart](https://cloud.githubusercontent.com/assets/16948906/17109640/ac3ab50e-524d-11e6-8b8d-6d0d2dbcc2f0.gif)
 
-**Order Summary and Payment Options**
+<h3>Order Summary and Payment Options</h3></br>
 ![ordersummary](https://cloud.githubusercontent.com/assets/16948906/17109643/ada6a02e-524d-11e6-8886-87a62958b303.gif)
 
 
