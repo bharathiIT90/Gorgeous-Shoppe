@@ -37,7 +37,13 @@ Python runs the back end of GorgeousShoppe. Django web framework is used to crea
 
 
 ## REST API Testing 
-Created a cart.Created a Json cart token.Generated new url and checkout url using Json token.An arbitary email is passed as argument in the test case function.Requested address from the user.Returned the addresses related to user checkout if addresses already available.Created an arbitrary user_id.Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
+1. Created a cart.
+2. Created a Json cart token.
+3. Generated new url and checkout url using Json token.
+4. An arbitary email is passed as argument in the test case function.Requested address from the user.
+5. Returned the addresses related to user checkout if addresses already available.
+6. Created an arbitrary user_id.
+7. Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
 
 ## Exploration
 
