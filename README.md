@@ -10,6 +10,7 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 	- [Front-end](#front-end)
 	- [Back-end](#back-end)
 - [REST API Testing](#rest-api-testing)
+- [File Guide](#file-guide)
 - [Technical Run](#technical-run)
 
 
@@ -50,7 +51,16 @@ Dependencies are given in Gorgeous-Shoppe/src/requirements.txt.
 6. Created an arbitrary user_id.
 7. Updated the checkout url to produce the order details of billing address, shipping address and cart and checkout token.
 
-## Technical Run:
+## File Guide
+* <kbd>src/</kbd> Contains the main source code for various application.
+* <kbd>src/products/</kbd> Contains the model.py, views.py for the products app.
+* <kbd>src/carts/</kbd> Contains the model.py, views.py for the carts app.
+* <kbd>src/orders/</kbd> Contains the model.py, views.py for the orders app.
+* <kbd>src/manage.py</kbd> Implements the backend Python server using Django Framework.
+* <kbd>src/templates/</kbd> Contains all the HTML, CSS and Jquery files.
+* <kbd>src/requirements.txt</kbd> Dependencies are provided. 
+
+## Technical Run
 
 <h3> Home Page</h3>
 ![homepage](https://cloud.githubusercontent.com/assets/16948906/17109637/a94434f6-524d-11e6-9fb1-722dc9772e33.gif)
