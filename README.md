@@ -57,8 +57,8 @@ Dependencies are given in Gorgeous-Shoppe/src/requirements.txt.
 </br>
 
 <h3>Product and Product Variation</h3></br>
-![productview](https://cloud.githubusercontent.com/assets/16948906/17109639/aa621a10-524d-11e6-8164-be2668b70ad8.gif)
-</br>
+![productview](https://cloud.githubusercontent.com/assets/16948906/17109639/aa621a10-524d-11e6-8164-be2668b70ad8.gif)</br>
+
 
 <h3>Cart and Cart Updation</h3></br>
 ![cart](https://cloud.githubusercontent.com/assets/16948906/17109640/ac3ab50e-524d-11e6-8b8d-6d0d2dbcc2f0.gif)
