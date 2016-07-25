@@ -29,10 +29,10 @@ A full stack online shopping web application which allows user to select their d
 ## Technologies
 Python, Django framework, sqlite3, AJAX, Jquery, HTML, CSS, Bootstrap, Braintree for payment, Jquery flash messages, Django REST framework.
 
-### Front-end
+** Front-end **
 HTML, custom CSS paired with bootstrap is the main part of the Front end. Flash messages for the cart update is run through Jquery. 
 
-### Back-end
+** Back-end **
 Python runs the back end of GorgeousShoppe. Django web framework is used to create relations between different applications and databases. AJAX is used for querying the database to update the cart quickly once the quantity and product is updated. Braintree is used for providing payments options using paypal and credit card. 
 
 
