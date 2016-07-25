@@ -16,7 +16,7 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 
 ## Introduction
 
-A full stack online shopping web application which allows user to select their desired product, make payment and checkout. When the user logs into the application, they are able to choose the products from a list of products. The products are grouped according to various categories. The user is allowed to apply filters and make their selection. The application allows both guest user and registered user for checking out. The user also has freedom to choose a product from various options under each product. 
+A full stack online shopping web application which allows user to select their desired product, make payment and checkout. When the user logs into the application, they are able to choose the products from a list of recommended and featured products. The application also gives the priviledge to select from related products to make search process easier. The products are grouped according to various categories and the user can apply filters and make their selection. The application also implements product variations for each product.The application allows both guest user and registered user for checking out. There are two payment option provided- Paypal and credit card. 
 
 ## Features
 ### Current Features
