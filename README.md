@@ -4,6 +4,8 @@ Know more about the developer on <a href="https://www.linkedin.com/in/bharathi-r
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+	- [Current Features](#current-features)
+	- [Future Enhancements](#future-enchancements)
 - [Technologies](#technologies)
 	- [Front-end](#front-end)
 	- [Back-end](#back-end)
