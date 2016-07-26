@@ -89,7 +89,7 @@ CORS_URLS_REGEX = r'^/api/.*$'
 
 
 
-ROOT_URLCONF = 'ecommerce2.urls'
+ROOT_URLCONF = 'Gorgeous.urls'
 
 TEMPLATES = [
     {
@@ -107,7 +107,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ecommerce2.wsgi.application'
+WSGI_APPLICATION = 'Gorgeous.wsgi.application'
 
 
 # Database
@@ -187,7 +187,7 @@ REST_FRAMEWORK = {
 
 JWT_AUTH = {
     "JWT_RESPONSE_PAYLOAD_HANDLER": 
-            "ecommerce2.utils.jwt_response_payload_handler",
+            "Gorgeous.utils.jwt_response_payload_handler",
     "JWT_EXPIRATION_DELTA": datetime.timedelta(seconds=30000),
     "JWT_ALLOW_REFRESH": True, #False
 }

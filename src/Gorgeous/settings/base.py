@@ -71,7 +71,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
 )
 
-ROOT_URLCONF = 'ecommerce2.urls'
+ROOT_URLCONF = 'Gorgeous.urls'
 
 TEMPLATES = [
     {
@@ -89,7 +89,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ecommerce2.wsgi.application'
+WSGI_APPLICATION = 'Gorgeous.wsgi.application'
 
 
 # Database
